@@ -1,0 +1,80 @@
+C:\Users\Lucas\source\repos\Tela de Login\Tela de Login\bin\Debug\Tela de Login.exe.config
+C:\Users\Lucas\source\repos\Tela de Login\Tela de Login\bin\Debug\Tela de Login.exe
+C:\Users\Lucas\source\repos\Tela de Login\Tela de Login\bin\Debug\Tela de Login.pdb
+C:\Users\Lucas\source\repos\Tela de Login\Tela de Login\obj\Debug\Tela de Login.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Form1.resources
+C:\Users\Lucas\source\repos\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Properties.Resources.resources
+C:\Users\Lucas\source\repos\Tela de Login\Tela de Login\obj\Debug\Tela de Login.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\Tela de Login\Tela de Login\obj\Debug\Tela de Login.exe
+C:\Users\Lucas\source\repos\Tela de Login\Tela de Login\obj\Debug\Tela de Login.pdb
+C:\Users\Lucas\source\repos\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Apresentacao.BemVindo.resources
+C:\Users\Lucas\source\repos\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Apresentacao.CadastreSe.resources
+C:\Users\lucas\Documents\Tela de Login\Tela de Login\bin\Debug\Tela de Login.exe.config
+C:\Users\lucas\Documents\Tela de Login\Tela de Login\bin\Debug\Tela de Login.exe
+C:\Users\lucas\Documents\Tela de Login\Tela de Login\bin\Debug\Tela de Login.pdb
+C:\Users\lucas\Documents\Tela de Login\Tela de Login\obj\Debug\Tela de Login.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Apresentacao.CadastreSe.resources
+C:\Users\lucas\Documents\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Form1.resources
+C:\Users\lucas\Documents\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Properties.Resources.resources
+C:\Users\lucas\Documents\Tela de Login\Tela de Login\obj\Debug\Tela de Login.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\Tela de Login\Tela de Login\obj\Debug\Tela de Login.exe
+C:\Users\lucas\Documents\Tela de Login\Tela de Login\obj\Debug\Tela de Login.pdb
+C:\Users\lucas\OneDrive\Tela de Login\Tela de Login\bin\Debug\Tela de Login.exe.config
+C:\Users\lucas\OneDrive\Tela de Login\Tela de Login\bin\Debug\Tela de Login.exe
+C:\Users\lucas\OneDrive\Tela de Login\Tela de Login\bin\Debug\Tela de Login.pdb
+C:\Users\lucas\OneDrive\Tela de Login\Tela de Login\obj\Debug\Tela de Login.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Apresentacao.Consulta.resources
+C:\Users\lucas\OneDrive\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Apresentacao.CadastreSe.resources
+C:\Users\lucas\OneDrive\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Form1.resources
+C:\Users\lucas\OneDrive\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Apresentacao.CadastroCliente.resources
+C:\Users\lucas\OneDrive\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Tela de Login\Tela de Login\obj\Debug\Tela de Login.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Tela de Login\Tela de Login\obj\Debug\Tela de Login.exe
+C:\Users\lucas\OneDrive\Tela de Login\Tela de Login\obj\Debug\Tela de Login.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro\Sistema de Cadastro\Tela de Login\Tela de Login\bin\Debug\Tela de Login.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro\Sistema de Cadastro\Tela de Login\Tela de Login\bin\Debug\Tela de Login.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro\Sistema de Cadastro\Tela de Login\Tela de Login\bin\Debug\Tela de Login.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela de Login.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Apresentacao.CadastreSe.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Form1.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela de Login.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela de Login.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela de Login.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Apresentacao.CadastroCliente.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\bin\Debug\Tela de Login.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\bin\Debug\Tela de Login.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\bin\Debug\Tela de Login.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela de Login.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Apresentacao.CadastreSe.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Form1.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela de Login.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela de Login.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela de Login.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Apresentacao.consultaContato.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Apresentacao.CadastroCliente.resources
+C:\Users\lucas\Desktop\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\bin\Debug\Tela de Login.exe.config
+C:\Users\lucas\Desktop\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\bin\Debug\Tela de Login.exe
+C:\Users\lucas\Desktop\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\bin\Debug\Tela de Login.pdb
+C:\Users\lucas\Desktop\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela de Login.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Apresentacao.CadastreSe.resources
+C:\Users\lucas\Desktop\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Apresentacao.CadastroCliente.resources
+C:\Users\lucas\Desktop\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Apresentacao.consultaContato.resources
+C:\Users\lucas\Desktop\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Form1.resources
+C:\Users\lucas\Desktop\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Properties.Resources.resources
+C:\Users\lucas\Desktop\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela de Login.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela de Login.exe
+C:\Users\lucas\Desktop\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela de Login.pdb
+C:\Users\lucas\Desktop\Utilma versão agenda\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\bin\Debug\Tela de Login.exe.config
+C:\Users\lucas\Desktop\Utilma versão agenda\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\bin\Debug\Tela de Login.exe
+C:\Users\lucas\Desktop\Utilma versão agenda\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\bin\Debug\Tela de Login.pdb
+C:\Users\lucas\Desktop\Utilma versão agenda\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela de Login.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Utilma versão agenda\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Apresentacao.CadastreSe.resources
+C:\Users\lucas\Desktop\Utilma versão agenda\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Apresentacao.CadastroCliente.resources
+C:\Users\lucas\Desktop\Utilma versão agenda\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Apresentacao.consultaContato.resources
+C:\Users\lucas\Desktop\Utilma versão agenda\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Form1.resources
+C:\Users\lucas\Desktop\Utilma versão agenda\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela_de_Login.Properties.Resources.resources
+C:\Users\lucas\Desktop\Utilma versão agenda\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela de Login.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Utilma versão agenda\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela de Login.exe
+C:\Users\lucas\Desktop\Utilma versão agenda\Sistema de Cadastro 2.0 Conexao Com Banco de Dados\Sistema de Cadastro\Tela de Login\Tela de Login\obj\Debug\Tela de Login.pdb
